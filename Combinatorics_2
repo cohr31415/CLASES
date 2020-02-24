@@ -1,0 +1,79 @@
+\documentclass[10pt,a4 paper]{article}
+\usepackage[latin1]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{dsfont}
+\usepackage{parskip}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{pstricks-add}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{cite}
+
+
+
+\pagestyle{fancy}
+
+\begin{document}
+
+\lhead{TRINOMIO VERANO 2020}
+\chead{}
+\rhead{Jemisson Daniel Coronel}
+
+\begin{center}
+\textbf{\Large{Problemas combinatoria 2}}
+\end{center}
+
+\begin{center}
+Jemisson Daniel Coronel
+\end{center}
+
+\begin{center}
+30 de enero de 2020
+\end{center}
+\vspace{9mm}
+\begin{enumerate}
+
+\item \textbf{(Problemas propuestos)} ?`C\'uantos enteros positivos de $5$ cifras hay tales que el producto de sus d\'igitos es $0$?
+
+\item \textbf{(Problemas propuestos)} Hay $17$ n\'umeros escritos en la pizarra. Probar que hay $5$ ellos cuya suma es m\'ultiplo de $5$. 
+
+\item \textbf{(Problemas propuestos)} Hay $5$ n\'umeros escritos en la pizarra. Probar que se pueden escoger algunos de ellos (al menos $1$) tal que su suma sea m\'ultiplo de 5.
+
+\item \textbf{(Counting Strategies)} Juan quiere escoger tres n\'umeros distintos del conjunto $\left \{1, 2, 3, ..., 22 \right \}$ de tal forma que su suma sea m\'ultiplo de $3$. ?`De cu\'antas formas puede hacer eso? 
+
+\item \textbf{(Problemas propuestos)} ?`Cu\'antos subconjuntos de $5$ elementos de $X$ = $\left \{1, 2, 3, ..., 24 \right \}$ tienen suma de elementos mayor o igual a $63$?   
+
+\item \textbf{(Counting Strategies)} Hallar todos lo n\'umeros enteros positivos de dos d\'igitos que son divisibles por cada uno de sus d\'igitos ($12$ es un ejemplo).   
+
+\item \textbf{(AIME)} 9 palitos son enumerados con $1, 2, 3, ..., 9$. Se escogen $3$ palitos (sin ver), ?`cual es la probabilidad de que la suma de esos $3$ n\'umeros sea impar? 
+
+\item \textbf{(Theorem)} Probar que la siguiente igualdad cumple:
+$$\binom{n}{k + 1} = \binom{n - 1}{k + 1} + \binom{n - 1}{k}$$
+
+\item \textbf{(AIME)} Diez puntos son marcados en un c\'irculo. ?`De cu\'antas maneras distintas de pueden escoger algunos de esos puntos tal que formen un pol\'igono convexo? 
+
+\item \textbf{(Counting strategies)} Sean $n$,$m$,$k$ enteros no negativos tales que $m$ es menor o igual a $n$. Probar que:
+$$\binom{n}{k}\binom{k}{m} = \binom{n}{m}\binom{n - m}{k - m}$$
+
+
+
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
