@@ -1,0 +1,84 @@
+\documentclass[10pt,a4 paper]{article}
+\usepackage[latin1]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{dsfont}
+\usepackage{parskip}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{pstricks-add}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{cite}
+
+
+
+\pagestyle{fancy}
+
+\begin{document}
+
+\lhead{TRINOMIO VERANO 2020}
+\chead{}
+\rhead{Jemisson Daniel Coronel}
+
+\begin{center}
+\textbf{\Large{Problemas teor\'ia de n\'umeros 3}}
+\end{center}
+
+\begin{center}
+Jemisson Daniel Coronel
+\end{center}
+
+\begin{center}
+30 de enero de 2020
+\end{center}
+\vspace{9mm}
+\begin{enumerate}
+
+\item \textbf{(OIM)} Determine todas las parejas ($a, b$) de enteros positivos tal que:
+$$a b^{2} + b + 7 | a^{2} b + a + b$$
+
+\item \textbf{(ONEM tercera fase)} Calcule A:
+$$a = \frac{1}{1003 \cdot 2004} + \frac{1}{1004 \cdot 2003} + \frac{1}{1005 \cdot 2002} ... + \frac{1}{2004 \cdot 1003}$$
+
+\item \textbf{(ONEM tercera fase)} Sea $A$ = ($1 + 2$)($3 + 4$)...($99 + 100$). Encuentre el menor valor impar $N$, con $N$ $>$ $1$, tal que el m\'aximo com\'un divisor de $N$ y $A$ es $1$.  
+
+\item \textbf{(ONEM cuarta fase)} Sean $a, b, c$ tres enteros positivos distintos tales que: 
+$$a + 8b + 25c = 2004$$
+Adem\'as $b$ es m\'ultiplo de $a$, y $c$ es m\'ultiplo de $c$. Encuentra todos los posibles valores de $a, b, c$.
+
+\item \textbf{(ONEM tercera fase)} Si $p$ y $q$ son enteros positivos, tales que $\frac{5}{8}$ $<$ $\frac{p}{q}$ $<$ $$\frac{7}{8}$$. Encuentre el menor valor de $p$, si se debe cumplir que $p + q = 2005$. 
+
+\item \textbf{(AOPS)} Halle todos los n\'umeros primos $p$, tal que $2^{p} + 3^{p}$ es divisible por $11$. 
+
+\item \textbf{(ONEM segunda fase)} Sean $x$ y $z$ n\'umeros reales tales que
+$$x^{2} + 5xz + z^{2} = 7$$
+$$x^{2}z + z^{2}x = 2$$
+Si $x + z$ $\neq$ $2$, determina el valor de $(6xz)^{2}$
+
+\item \textbf{(ONEM segunda fase)} Sean $a$ y $b$ dos n\'umeros  enteros positivos tales que $a$ $>$ $b$ y el m\'inimo com\'un m\'ultiplo de $a$ y $b$ es $200$   
+
+\item \textbf{(ONEM segunda fase)} ?`Cu\'antos n\'umeros enteros $x$ cumplen que $\frac{x^{3} + 2x^{2} + 9}{x^{2} + 4x + 5} $ es un entero? 
+
+\item \textbf{(AOPS)} Halle todo los enteros naturales $n$ tal que tienen un divisor $d$ que cumple lo siguiente:
+$$dn + 1 \mid d^{2} + n^{2}$$
+
+
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
